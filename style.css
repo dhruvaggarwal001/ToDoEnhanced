@@ -24,31 +24,6 @@
     align-items: center;
     margin-bottom: 20px;
 }
-.adding{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: greenyellow;
-    border-radius: 30px;
-    padding-left: 20px;
-    margin-bottom: 25px;
-}
-input{
-    flex: 1;
-    border: none;
-    outline: none;
-    background: transparent;
-    padding: 10px;
-    font-weight: 14px;
-}
-#bigdu{
-    border: none;
-    border-radius: 30px;
-    outline: none;
-    background: red;
-    padding: 16px 25px;
-    cursor: pointer;
-}
 .myTodos{
     font-size: 17px;
     margin-left: 40px;
